@@ -8,10 +8,8 @@
   "require": {
     "php": "^8.2",
     "cobisja/tad-php": "dev-master",
-    "jmrashed/zkteco": "^1.0",
     "laravel/framework": "^12.0",
-    "laravel/tinker": "^2.10.1",
-    "rats/zkteco": "^002.0"
+    "laravel/tinker": "^2.10.1"
   },
   "repositories": [
     {
